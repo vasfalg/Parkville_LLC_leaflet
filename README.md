@@ -2,7 +2,7 @@
 Customize Leaflet maps with a linked Google Sheets template or CSV files and GeoJSON data on GitHub
 
 ## Live links (replace with your own)
-- Leaflet Map https://vasfalg.github/Parkville_LLC_Leaflet
+- Leaflet Map https://vasfalg.github.io/Parkville_LLC_leaflet/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1rVELI7sx4L3rsLYQNYk4yvFoOmTc-ad1aagvo194ND8/edit?usp=sharing
 
 ## Create your own
